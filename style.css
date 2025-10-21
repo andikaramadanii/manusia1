@@ -1,12 +1,12 @@
 body {
   background-color: #FFFFE0; /* warna kuning */
-  font-family: Arial, sans-serif; /* 50 &*/
+  font-family: Arial, sans-serif; /* huruf yang mudah di baca */
 color: #191970; /* biru terang */
 }
 
 .kartu profil{
   width: 300px;
-  margin: 50px atuo; /* 50px jarak atas/bawah, auto mengarah ke kiri */
+  margin: 50px atuo; /* 50px jarak atas/bawah, auto mengarah ke kiri/kanan */
   padding: 20px;
   background-color: white;
   border-radius: 15px; /* membuat mendjadi melengkung */
@@ -19,6 +19,7 @@ box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* efek bayangan */
   border-radius: 70%; /* trik membuat gambar gambar persegi menjadi lingkaran sempurna */
 }
 kartu-profil {
-  text-align: center;
+  /* ... (kode dari slide sebelumnnya) ... */
+  text-align: center; /* menengahkan semua teks di dalam kartu */
 
-  text
+}
