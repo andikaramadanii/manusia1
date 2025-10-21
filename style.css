@@ -1,0 +1,25 @@
+bady {
+  background-color: #FFFFE0; /* warna kuning */
+  font-family: Arial, sans-serif; /* 50 &*/
+color: #191970; /* biru terang */
+}
+
+.kartu profil{
+  width: 300px;
+  margin: 50px atuo; /* 50px jarak atas/bawah, auto mengarah ke kiri */
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px; /* membuat mendjadi melengkung */
+box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* efek bayangan */
+}
+
+
+.kartu-profil img {
+  width: 150px
+  border-radius: 55%; /* membuat gambar persegi */
+}
+kartu-profil {
+  /* ... (kode dari slide sebelumnya) ... */
+  text-align: csnter;
+
+  text
